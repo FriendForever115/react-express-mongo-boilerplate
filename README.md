@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/5064518/62132713-f3c25480-b2b3-11e9-9bb2-8447432ac980.png" alt="react boilerplate banner" align="center" />
 
-<br>
+<br> 
 
 <div align="center">
     <b>
@@ -8,7 +8,7 @@
     </b>
     <p>MER(A)N is a FullStack opinionated monorepo webapp boilerplate based on the MERN stack with Apollo GraphQL.</p>
     <sub>
-        Made with ❤️ by <a ref="https://github.com/IgorMCesar">IgorMCesar</a>.
+        Made with ❤️ by <a ref="https://github.com/FriendForever115">FriendForever</a>.
     </sub>
 </div>
 
